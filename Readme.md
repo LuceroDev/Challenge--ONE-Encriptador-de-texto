@@ -24,9 +24,6 @@ El desafío consistió en crear una página web que permitiera a los usuarios en
 - "gato" se encripta como "gaitober"
 - "gaitober" se desencripta como "gato"
 
-## Demo
-
-<video controls src="Encriptador de texto - Google Chrome 2024-06-30 16-35-44.mp4" title="Video de funcionamiento"></video>
 
 ## Autor
 
